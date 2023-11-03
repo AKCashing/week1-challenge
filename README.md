@@ -1,2 +1,8 @@
-# week1-challenge
-My Week 1 Challenge Assignment from UofM Bootcamp
+# Week1-Challenge
+
+## Description
+
+![Horizeon Screenshot](./assets/images/01-html-css-git-homework-demo)
+
+## Link To Deployed Site
+[Horizeon SEO]()
